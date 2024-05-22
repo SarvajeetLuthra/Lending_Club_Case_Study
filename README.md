@@ -1,4 +1,4 @@
-##Project Name: Lending Club Case Study
+## Project Name: Lending Club Case Study
 
 ## Table of Contents
 * [General Info](#general-information)
